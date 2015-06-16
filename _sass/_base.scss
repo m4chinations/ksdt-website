@@ -21,6 +21,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    text-shadow: 1px 1px 0px #231B25;
 }
 
 
@@ -91,13 +92,19 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
+    outline: 0;
+    text-shadow: 1px 1px 0px #231B25;
 
     &:visited {
-        color: darken($brand-color, 15%);
+      color: darken($brand-color, 5%);
+    }
+
+    &:active {
+      text-shadow: 3px 1px 5px #231B25;
     }
 
     &:hover {
-        color: $text-color;
+        //color: darken($brand-color, 30%);
         text-decoration: underline;
     }
 }
@@ -130,7 +137,7 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: black;
 }
 
 code {
@@ -170,7 +177,14 @@ pre {
     }
 }
 
-
+.blink {
+  animation: blink 1s steps(5, start) infinite;
+}
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
 
 /**
  * Clearfix
