@@ -1,8 +1,8 @@
 # Site settings
-title: blog.1034b.pw
-email: tennyson@fastmail.com
+title: ksdt
+email: thollowa@ucsd.edu
 description: > # this means to ignore newlines until "baseurl:"
-    Writings by Tennyson Holloway. 
+    KSDT
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: barontennyson

@@ -22,7 +22,8 @@ body {
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     text-shadow: 1px 1px 0px #231B25;
-    border-top: 5px solid $grey-color-dark;
+    //border-top: 5px solid $grey-color-dark;
+    padding-top : 5px;
 }
 
 
@@ -101,7 +102,7 @@ a {
     }
 
     &:active {
-      text-shadow: 3px 1px 5px #231B25;
+      //text-shadow: 3px 1px 5px #231B25;
     }
 
     &:hover {

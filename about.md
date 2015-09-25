@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: About KSDT
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+KSDT is a student-run radio station located on the campus of the University of California, San Diego. The station has existed since 1967, but has taken many different forms since then. In its current configuration, KSDT broadcasts solely via streaming MP3 on the internet. KSDT provides music and activities for the UCSD community and the greater worldwide web — striving to promote independent music not available from mainstream sources and work to help the San Diego Community.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In addition to producing radio shows, KSDT maintains and operates studio facilities providing practice space for undiscovered area bands. KSDT uses its contacts in the music industry to produce campus appearances by KSDT approved acts, producing live Studio Sessions for up and coming independent bands.
