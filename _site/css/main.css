@@ -154,9 +154,6 @@ pre {
 /**
  * Site header
  */
-body > .wrapper {
-  background: transparent -moz-linear-gradient(center top, #574E5A, #5C535F) repeat scroll 0% 0%; }
-
 #branding #sun {
   position: relative;
   background-color: #2C262F;
@@ -341,9 +338,6 @@ body > .wrapper {
 .rss-subscribe {
   font-size: 12px;
   float: right; }
-
-.page-content {
-  padding: 30px 0; }
 
 .page-heading {
   font-size: 20px; }

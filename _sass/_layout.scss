@@ -2,9 +2,6 @@
  * Site header
  */
 
-body > .wrapper {
-    background: transparent -moz-linear-gradient(center top , #574E5A, #5C535F) repeat scroll 0% 0%
-}
 #branding {
     #sun {
         position: relative;
@@ -243,7 +240,6 @@ body > .wrapper {
 .wrapper {
 }
 .page-content {
-    padding: $spacing-unit 0;
 }
 
 .page-heading {
