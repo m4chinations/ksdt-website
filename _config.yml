@@ -4,7 +4,7 @@ email: thollowa@ucsd.edu
 description: > # this means to ignore newlines until "baseurl:"
     KSDT
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://ksdt.org" # the base hostname & protocol for your site
 twitter_username: barontennyson
 github_username:  tennysonholloway
 

@@ -10,13 +10,16 @@ $(document).ready(function() {
         if (!audio) {
             audio = new Audio('http://ksdt.ucsd.edu:8000/stream');
             audio.crossOrigin = 'anonymous';
-            if (context) {
-                var source = context.createMediaElementSource(audio);
-                analyser = context.createAnalyser();
-                source.connect(analyser);
-                analyser.connect(context.destination);
-                analyser.fftSize = 64;
-                frequencyData = new Uint8Array(analyser.frequencyBinCount);
+            if (context && navigator.userAgent.indexOf('Firefox') == -1) {
+                audio.addEventListener('canplay', function(e) {
+                    var source = context.createMediaElementSource(audio);
+                    analyser = context.createAnalyser();
+                    source.connect(analyser);
+                    analyser.connect(context.destination);
+                    analyser.fftSize = 64;
+                    frequencyData = new Uint8Array(analyser.frequencyBinCount);
+                    e.target.removeEventListener(e.type, arguments.callee);
+                });
             }
         }
         if (audio.paused) {
@@ -39,8 +42,25 @@ $(document).ready(function() {
                     $('#listen').text('playing');
             }
         }
+
     }, 100);
 
+/*    setInterval(function() {
+        var query = [], i, attr, script,
+            fn = '_spinitron' + (Math.random().toString() + new Date().getTime()).slice(2, -1);
+        window[fn] = function (html) {
+            var obj = $.parseHTML(html);
+            console.log(obj);
+        };
+        query.push('station=kzsc');
+        query.push('num=1');
+        query.push('time=0');
+        query.push('nolinks=1');
+        query.push('callback=' + fn);
+        script = document.createElement('script');
+        script.src = '//spinitron.com/radio/newestsong.php?' + query.join('&');
+        document.getElementsByTagName('head')[0].appendChild(script);
+    }, 10000);*/
 
     function update() {
         requestAnimationFrame(update);

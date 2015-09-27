@@ -3,8 +3,13 @@ layout: default
 ---
 
 <div class="home">
-
-    <!--<h1 class="page-heading">Posts</h1>-->
+  {% capture alertmd %}{% include alert.md %}{% endcapture %}
+  {% assign alert = alertmd | strip_newlines %}
+  {% if alert != "" %}
+      <div id='alert'>
+          {{ alert | markdownify }}
+      </div>
+  {% endif %}
 
   <ul class="post-list">
     {% for post in site.posts %}

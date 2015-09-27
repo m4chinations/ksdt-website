@@ -10,6 +10,9 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+hr {
+  margin: 20px 0; }
+
 body {
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 14px;
@@ -19,6 +22,7 @@ body {
   background-color: #5C535F;
   -webkit-text-size-adjust: 100%;
   text-shadow: 1px 1px 0px #231B25;
+  border-top: 10px solid #2c262f;
   padding-top: 5px; }
 
 /**
@@ -154,6 +158,12 @@ pre {
 /**
  * Site header
  */
+#alert {
+  text-align: center;
+  padding: 20px 0 5px;
+  margin-bottom: 30px;
+  background-color: #2c262f; }
+
 #branding #sun {
   position: relative;
   background-color: #2C262F;
@@ -202,11 +212,28 @@ pre {
 .excerpt p {
   font-family: 'Helvetica';
   font-size: 16px;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  padding-right: 6px; }
 
 .readmore {
   float: right;
   margin-right: 5px; }
+
+#shows {
+  width: 100%;
+  border: 0;
+  height: 1000px; }
+
+#social {
+  position: relative;
+  display: inline;
+  float: right;
+  list-style: outside none none;
+  left: 393px;
+  margin-top: 18px; }
+  #social li {
+    display: inline;
+    margin-left: 10px; }
 
 #nav {
   position: relative;
@@ -407,6 +434,9 @@ pre {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+#map {
+  height: 600px; }
 
 /**
  * Syntax highlighting styles

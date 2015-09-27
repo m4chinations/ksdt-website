@@ -2,6 +2,13 @@
  * Site header
  */
 
+#alert {
+    text-align: center;
+    padding: 20px 0 5px;
+    margin-bottom: 30px;
+    background-color: rgb(44, 38, 47);
+}
+
 #branding {
     #sun {
         position: relative;
@@ -46,6 +53,7 @@
         font-family : 'Helvetica';
         font-size: 16px;
         margin-bottom: 0;
+        padding-right: 6px;
     }
 }
 .readmore {
@@ -53,6 +61,24 @@
     margin-right: 5px;
 }
 
+#shows {
+    width: 100%;
+    border: 0;
+    height: 1000px;
+}
+
+#social {
+    position: relative;
+    display: inline;
+    float: right;
+    list-style: outside none none;
+    left: 393px;
+    margin-top: 18px;
+    li {
+        display: inline;
+        margin-left: 10px;
+    }
+}
 #nav {
     position: relative;
     display: inline;
@@ -333,4 +359,8 @@
             font-size: 18px;
         }
     }
+}
+
+#map {
+    height: 600px;
 }
