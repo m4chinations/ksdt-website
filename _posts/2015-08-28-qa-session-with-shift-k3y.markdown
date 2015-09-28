@@ -36,13 +36,13 @@ tags:
 comments: []
 ---
 
-![heading](/assets/img/Screenshot_2015-08-19-21-01-38-1-31.jpg)
+![heading]({{ site.baseurl }}/assets/img/Screenshot_2015-08-19-21-01-38-1-31.jpg)
 
 Lewis Shay Jankel is an artist that blends old school soul with a new school sound. The London born DJ has been touring the USA this summer, and while he was in California KSDT had the pleasure to sit down with the DJ, producer, and vocal artist best known by his stage name Shift K3Y.
 
 With his debut single "Touch" making it to #3 on the UK Singles Chart in 2014, Shift K3Y has gained acclaim in the UK and Europe, but that is only the start. The now 22 years old has come a long way in a very short amount of time. Trying to make his mark across the pond, Shift K3Y has signed to the USA's very own Ultra Music (Ultra Records), in addition to Columbia UK. He has just released a remixes EP under Dim Mak this month and supposedly has an album waiting in the wings. You might not be familiar with his name quite yet and that's okay, but Shift K3Y is definitely an artist to watch out for.
 
-![full](/assets/img/Screenshot_2015-08-19-21-02-36-1-2.jpg)
+![full]({{ site.baseurl }}/assets/img/Screenshot_2015-08-19-21-02-36-1-2.jpg)
 
 KSDT caught up with Shift K3Y after his outdoor DJ set at Splash House Palm Springs this past June, engaging in a casual convo/Q&A session:
 
@@ -64,7 +64,7 @@ KSDT caught up with Shift K3Y after his outdoor DJ set at Splash House Palm Spri
 
 And also the guy I have been working with quite a bit James Fauntleroy did quite a lot on the album. I didn't realize it until I started hearing his voice. So yea, I'm just in love with that album.
 
-![full](/assets/img/Screenshot_2015-08-19-21-01-07-1-2.jpg)
+![full]({{ site.baseurl }}/assets/img/Screenshot_2015-08-19-21-01-07-1-2.jpg)
 
 *Your name is pretty unique, how did you come to be Shift K3Y?*
 
@@ -81,7 +81,7 @@ And also the guy I have been working with quite a bit James Fauntleroy did quite
 
 > But also just put stuff out and don't be afraid. Because I think a lot of people spend too long getting it just right, and in that time they could have been building up a following. So it's a balance of addressing your craft and then knowing the right time, and you just know when it's right, you just got to go for it.
 
-![full](/assets/img/Screenshot_2015-08-19-22-01-29-1-21.jpg)
+![full]({{ site.baseurl }}/assets/img/Screenshot_2015-08-19-22-01-29-1-21.jpg)
 
 *We are a San Diego based radio station and you recently performed at San Diego's Bang Bang. How did you enjoy your time out there? Do think you will be heading back our way anytime soon?*
 
@@ -113,7 +113,7 @@ And also the guy I have been working with quite a bit James Fauntleroy did quite
 
 There was a sense of ease with which Shift K3Y spoke; an ease that comes not from knowing all the answers, but from being in the heart of theprocess. And it shows, since KSDT's interview with Shift K3Y in June, he has put out his remixes EP Misbehave with Born Dirty, and another EP of his own called Off the Record. For more on the up-and-coming artist Shift K3Y, from songs to tour dates check out the links below.
 
-![full](/assets/img/Screenshot_2015-08-19-21-01-20-1-2.jpg)
+![full]({{ site.baseurl }}/assets/img/Screenshot_2015-08-19-21-01-20-1-2.jpg)
 
 Links & Sites:
 
@@ -129,7 +129,7 @@ Mentioned Singles & EPs:
 + Shift K3Y & Born Dirty Dim Mak Records - Misbehave (Remixes EP): [https://soundcloud.com/dimmakrecords/sets/shift-k3y-born-dirty-misbehave](https://soundcloud.com/dimmakrecords/sets/shift-k3y-born-dirty-misbehave)
 + Shift K3Y - Off the Record (EP): [https://soundcloud.com/shift-key/sets/off-the-record](https://soundcloud.com/shift-key/sets/off-the-record)
 
-![full](/assets/img/Screenshot_2015-08-19-21-01-28-1-2.jpg)
+![full]({{ site.baseurl }}/assets/img/Screenshot_2015-08-19-21-01-28-1-2.jpg)
 
 Photos / [shiftk3y](https://instagram.com/shiftk3y/) / Interview / Susan Bystrom / Audio Record / Zane Samarasinghe
 {: style="text-align: center"}

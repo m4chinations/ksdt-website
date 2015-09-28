@@ -6,15 +6,15 @@
   <body>
     <div class="wrapper">
       <h1 class="site-title">
-          <a href="/">//ksdt</a>
+          <a href="{{ site.baseurl }}/">//ksdt</a>
       </h1>
       <span id='listen'>listen now</span>
       <ul id='nav'>
-          <li><a href='/about'>about</a></li>
-          <li><a href='/shows'>schedule</a></li>
-          <li><a href='/do'>get invovled</a></li>
-          <li><a href='/vault'>vault</a></li>
-          <li><a href='/contact'>contact</a></li>
+          <li><a href='{{ '/about' | prepend: site.baseurl }}'>about</a></li>
+          <li><a href='{{ '/shows' | prepend: site.baseurl }}'>schedule</a></li>
+          <li><a href='{{ '/do'    | prepend: site.baseurl }}'>get invovled</a></li>
+          <li><a href='{{ '/vault' | prepend: site.baseurl }}'>vault</a></li>
+          <li><a href='{{ '/contact' | prepend: site.baseurl }}'>contact</a></li>
       </ul>
       <ul id='social'>
           <li><a href='https://www.facebook.com/KSDT-UCSD-College-Radio-449663035074953/timeline/'><i class="fa fa-facebook-f fa-2x"></i></a></li>
@@ -35,7 +35,7 @@
         </div>
       </div>
     </div>
-    <script src='/jq.js'></script>
-    <script src='/main.js'></script>
+    <script src='{{ '/jq.js' | prepend: site.baseurl }}'></script>
+    <script src='{{ '/main.js' | prepend: site.baseurl }}'></script>
   </body>
 </html>
