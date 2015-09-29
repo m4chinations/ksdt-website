@@ -9,6 +9,18 @@
     background-color: rgb(44, 38, 47);
 }
 
+@media (max-width: 960px) {
+    .wrapper > select { display: inline; }
+    #nav { display: none; }
+    #social {display: none; }
+}
+
+.wrapper > select {
+    display: none;
+    position: absolute;
+    right: 30px;
+}
+
 #branding {
     #sun {
         position: relative;
@@ -68,12 +80,12 @@
 }
 
 #social {
-    position: relative;
+    position: absolute;
     display: inline;
     float: right;
     list-style: outside none none;
-    left: 393px;
-    margin-top: 18px;
+    right: 31px;
+    margin-top: 26px;
     li {
         display: inline;
         margin-left: 10px;

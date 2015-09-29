@@ -11,11 +11,25 @@
       <span id='listen'>listen now</span>
       <ul id='nav'>
           <li><a href='{{ '/about' | prepend: site.baseurl }}'>about</a></li>
+          <li><a href='{{ '/blog' | prepend: site.baseurl }}'>about</a></li>
           <li><a href='{{ '/shows' | prepend: site.baseurl }}'>schedule</a></li>
           <li><a href='{{ '/do'    | prepend: site.baseurl }}'>get invovled</a></li>
           <li><a href='{{ '/vault' | prepend: site.baseurl }}'>vault</a></li>
           <li><a href='{{ '/contact' | prepend: site.baseurl }}'>contact</a></li>
       </ul>
+      <select>
+          <option value="" selected="selected">Navigate</option>
+          <option value="{{ site.baseurl }}">home</option>
+          <option value="{{ "/about" | prepend: site.baseurl }}">about</option>
+          <option value="{{ "/blog"  | prepend: site.baseurl }}">blog</option>
+          <option value="{{ "/shows" | prepend: site.baseurl }}">schedule</option>
+          <option value="{{ "/do"    | prepend: site.baseurl }}">get involved</option>
+          <option value="{{ "/vault" | prepend: site.baseurl }}">vault</option>
+          <option value="{{ "/contact" | prepend: site.baseurl }}">contact</option>
+          <option value="https://facebook.com/KSDT-UCSD-College-Radio-449663035074953/timeline/">facebook</option>
+          <option value="https://twitter.com/radioksdt">twitter</option>
+          <option value="https://instagram.com/ksdt_radio">insta</option>
+      </select>
       <ul id='social'>
           <li><a href='https://www.facebook.com/KSDT-UCSD-College-Radio-449663035074953/timeline/'><i class="fa fa-facebook-f fa-2x"></i></a></li>
           <li><a href='https://twitter.com/radioksdt'><i class="fa fa-twitter fa-2x"></i></a></li>
