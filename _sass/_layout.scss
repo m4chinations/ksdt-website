@@ -9,11 +9,6 @@
     background-color: rgb(44, 38, 47);
 }
 
-@media (max-width: 960px) {
-    .wrapper > select { display: inline; }
-    #nav { display: none; }
-    #social {display: none; }
-}
 
 .wrapper > select {
     display: none;
@@ -93,7 +88,6 @@
 }
 #nav {
     position: relative;
-    display: inline;
     float: right;
     margin: 62px 0px 0px;
     z-index: 40;
@@ -375,4 +369,9 @@
 
 #map {
     height: 600px;
+}
+@media (max-width: 960px) {
+    .wrapper > select { display: inline; }
+    #nav { display: none; }
+    #social {display: none; }
 }
