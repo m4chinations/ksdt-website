@@ -6,6 +6,10 @@ $(document).ready(function() {
         context = new AudioContext();
     } catch(e) { console.log(e); }
 
+    $('#mobile_nav').change(function() {
+        window.location = $(this).find('option:selected').val();
+    });
+
     $('#listen').click(function() {
         if (!audio) {
             audio = new Audio('http://ksdt.ucsd.edu:8000/stream');

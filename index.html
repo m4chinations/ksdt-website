@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
   {% capture alertmd %}{% include alert.md %}{% endcapture %}
-  {% assign alert = alertmd | strip_newlines %}
+  {% assign alert = alertmd %}
   {% if alert != "" %}
       <div id='alert'>
           {{ alert | markdownify }}

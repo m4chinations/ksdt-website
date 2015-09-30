@@ -5,35 +5,7 @@ published: true
 title: Q&A Session with Shift K3Y
 author: Susan Bystrom
 date: 2015-08-19
-tags:
-- music
-- splashhouse
-- ShiftK3Y
-- house
-- edm
-- simplysu
-- kendrickllamar
-- QnA
-- sandiego
-- dj
-- interview
-- rnb
-- dimmak
-- ultramusic
-- jamesfauntleroy
-- zedzeppelin
-- soul
-- bangbang
-- london
-- UK
-- borndirty
-- paulrodgers
-- steveaoki
-- Deorro
-- columbiauk
-- mj
-- chaka khan
-comments: []
+categories: music splashhouse ShiftK3Y house edm simplysu kendrickllamar QnA sandiego dj interview rnb dimmak ultramusic jamesfauntleroy zedzeppelin soul bangbang london UK borndirty paulrodgers steveaoki Deorro columbiauk mj chaka khan
 ---
 
 ![heading]({{ site.baseurl }}/assets/img/Screenshot_2015-08-19-21-01-38-1-31.jpg)

@@ -11,13 +11,13 @@
       <span id='listen'>listen now</span>
       <ul id='nav'>
           <li><a href='{{ '/about' | prepend: site.baseurl }}'>about</a></li>
-          <li><a href='{{ '/blog' | prepend: site.baseurl }}'>about</a></li>
+          <li><a href='{{ '/blog' | prepend: site.baseurl }}'>blog</a></li>
           <li><a href='{{ '/shows' | prepend: site.baseurl }}'>schedule</a></li>
           <li><a href='{{ '/do'    | prepend: site.baseurl }}'>get invovled</a></li>
           <li><a href='{{ '/vault' | prepend: site.baseurl }}'>vault</a></li>
           <li><a href='{{ '/contact' | prepend: site.baseurl }}'>contact</a></li>
       </ul>
-      <select>
+      <select id='mobile_nav'>
           <option value="" selected="selected">Navigate</option>
           <option value="{{ site.baseurl }}">home</option>
           <option value="{{ "/about" | prepend: site.baseurl }}">about</option>
