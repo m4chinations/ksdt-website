@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Q&A Session with Shift K3Y
 author: Susan Bystrom
