@@ -8,31 +8,33 @@ __DJ/Request Line__ *858-534-KSDT*
 
 ## Staff
 
-__General Manager__ 
-*ksdt.manager@gmail.com*
+__General Manager__ \\
+*ksdt.manager@gmail.com*\\
 Camellia Lee
 Katy Schoeneweis
 
-__Music Directors__
-*ksdt.musicdirectors@gmail.com*
+__Music Directors__\\
+*ksdt.musicdirectors@gmail.com* \\
 Mary Ilyaich
 
-__Promotions/Media__
-*ksdt.promotions@gmail.com*
+__Promotions/Media__\\
+*ksdt.promotions@gmail.com*\\
 Susan Bystrom
 
-_DJ Affairs__
-Stacy Grinberg
+__DJ Affairs__\\
+*agrinber@ucsd.edu*\\
+Stacy Grinberg\\
+*gentlestbuffalo@gmail.com*\\
 Patty Cuen
 
-__Sound Engineer__
-*sjohn@ucsd.edu*
-Sanjay John
-*bdbarr2222@gmail.com*
+__Sound Engineer__\\
+*sjohn@ucsd.edu*\\
+Sanjay John\\
+*bdbarr2222@gmail.com*\\
 Brian Solis
 
-__Webmaster__ 
-*thollowa@ucsd.edu*
+__Webmaster__ \\
+*thollowa@ucsd.edu*\\
 Tennyson Holloway
 
 ## Music Submissions
