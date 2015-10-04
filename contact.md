@@ -10,7 +10,7 @@ __DJ/Request Line__ *858-534-KSDT*
 
 __General Manager__ \\
 *ksdt.manager@gmail.com*\\
-Camellia Lee
+Camellia Lee, 
 Katy Schoeneweis
 
 __Music Directors__\\
@@ -39,7 +39,7 @@ Tennyson Holloway
 
 ## Music Submissions
 
-We love your submissions! We'll listen to them and add them to our library. 
+We love your submissions! We'll listen to them and let you know if we add them to our library. 
 Send digital submissions to *ksdt.musicdirectors@ucsd.edu*. For mail submissions, use the following address:
 
 Attn: Music Directors \\
