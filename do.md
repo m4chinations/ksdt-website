@@ -8,29 +8,29 @@ Our doors are always open for students and community members. Come by our office
 
 #OFFICE HOURS
 
-###MONDAY
+###Monday
 
 11am - 1pm ~ Stacy
 
 4pm - 5pm ~ Mary
 
-###TUESDAY
+###Tuesday
 
 10:30am - 12:30am ~ Patty
 
 3pm - 5pm ~ Katy
 
-###WEDNESDAY
+###Wednesday
 
 1pm - 2pm ~ Mary
 
-###THURSDAY
+###Thursday
 
 1pm - 3pm ~ Camellia
 
 6:30pm - 8:30pm ~ Susan
 
-###FRIDAY
+###Friday
 
 12pm - 2pm ~ Sanjay
 
