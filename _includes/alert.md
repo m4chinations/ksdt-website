@@ -1,3 +1,3 @@
-[DJ Applications](http://goo.gl/forms/6O5Dslq7r3) for Fall '15 are due TODAY 10/4. The link is [here!](http://goo.gl/forms/6O5Dslq7r3)
+DJ Applications for Fall '15 are currently being reviewed -- results will be emailed soon!
 
 Email *ksdt.manager@gmail.com* with any questions.
